@@ -1,23 +1,34 @@
-<h1 align="center">👋 Olá, me chamo Gabriel</h2>
-<h3 align="center">👨‍💻 Sou estudante de engenharia de software (5° período)</h3>
+# Réplica do spotify - design antigo
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/gabrieldev4)
+Este foi um projeto desenvolvido no curso de desenvolvimento web do Jamilton Damasceno na Udemy
 
-- 📚Atualmente estou aprendendo **React**
-- Pode me encontrar em **gabrielminima@gmail.com**
+O objetivo é aplicar todos os conhecimentos de HTML, CSS e Bootstrap como: 
 
-💻 Tecnologias e ferramentas
-<div style="display: inline_block"><br>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue.js"/>
-   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-<div>
-<br>
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldev4&show_icons=true&theme=dark)
+### Tecnologias Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev4&hide_progress=true)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+
+
+## Dependências e Versões Necessárias
+
+* Bootstrap - Versão: 4.1.3 <- Já aplicado no projeto via CDN
+
+## Como rodar o projeto ✅
+
+### Visualizar o projeto
+
+Para visualizar o projeto, basta abrir o arquivo `index.html` em qualquer navegador de sua escolha.
+
+### Recomendação
+
+Se você estiver utilizando o VSCode, é recomendável instalar a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para facilitar o desenvolvimento. Com ela, você pode abrir o projeto no navegador com um servidor local, que recarrega automaticamente a cada modificação feita nos arquivos.
+
+1. Instale a extensão "Live Server" no VSCode.
+2. Clique com o botão direito no arquivo `index.html` e selecione "Open with Live Server".
+
+## ⏭️ Próximos passos
+
+Irei reconstruir a aplicação em breve usando **React** e também usar o tema atual do Spotify
